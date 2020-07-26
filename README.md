@@ -1,18 +1,19 @@
 ### Hi there 👋! Welcome to my profile!
 
-<!--
-**nic1611/nic1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here something about me:
 
 - 🔭 I’m currently working at [BNE](https://www.bne.com.br/)
 - 🌱 I’m currently learning .Net, NodeJS, Angular and sometimes, Java
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--!>
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nic1611)](https://github.com/nic1611)
