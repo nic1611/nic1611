@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Soffi</h1>
-<h3 align="center">Full Stack Developer .NET & Angular and Data Science Student</h3>
+<h3 align="center">Data Scientist & .NET Developer</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
